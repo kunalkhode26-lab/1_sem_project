@@ -25,7 +25,7 @@ This project helped me understand the fundamentals of front-end web development 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/restaurant-website.git
+git clone https://github.com/kunalkhode26-lab/restaurant-website.git
 ```
 
 ### 2. Open the Project Folder
@@ -74,8 +74,13 @@ Through this project, I learned:
 ## 👨‍💻 Author
 
 Kunal khode
-web site url:-restaurantkunalkhode.netlify.app
+
+## web site url:-restaurantkunalkhode.netlify.app
+
+
+- GitHub: [@kunalkhode26-lab](https://github.com/kunalkhode26-lab)
+- Project: Restaurant Website
 
 ## 📄 License
 
-This project is created for educational and learning purposes.
+This project was created for educational and learning purposes.
